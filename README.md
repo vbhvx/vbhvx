@@ -18,10 +18,8 @@
 const vaibhav = {
   role:       "Full-Stack Developer  |  AI-Integrated Web Apps",
   location:   "Delhi, India 🇮🇳",
-  education:  "B.Tech CS @ G.B. Pant DSEU Campus, Delhi",
   focus:      ["TypeScript", "React 19", "Next.js 15", "RAG Pipelines"],
   superpower: "Shipping production-ready AI-integrated full-stack apps independently",
-  funFact:    "200+ DSA problems on LeetCode & CodeChef ⚡"
 };
 ```
 
